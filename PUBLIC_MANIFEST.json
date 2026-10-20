@@ -1,0 +1,107 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 74,
+    "sha256": "b372f65ae065409fba3f6baae4ee43b5ce4c9572b021bfd4553664f12cf5d585"
+  },
+  {
+    "path": "README.md",
+    "bytes": 2191,
+    "sha256": "46db18fa9fb95f8bc0a8c54a730b9bba677247615673dfe729429ddd2b3da338"
+  },
+  {
+    "path": "RIGHTS.md",
+    "bytes": 680,
+    "sha256": "6d6ffcfa3ba4e858b2729d7654fd3ef11f84e4915e918ba9969b9646a77d3e0f"
+  },
+  {
+    "path": "data/crypto-calls.json",
+    "bytes": 951330,
+    "sha256": "df6fd7636c531bd31b0ba8b922a72cc944fff085233904eb06afee94097a58eb"
+  },
+  {
+    "path": "data/momentum-metrics.json",
+    "bytes": 13240,
+    "sha256": "77bdca161d8656479014620398fd829e6db118e81e6d173f97ef3b57a6062ae9"
+  },
+  {
+    "path": "data/sources.json",
+    "bytes": 2806,
+    "sha256": "6c54f07bcd4ebd733092066880a8326eb711259b4bec84d106944f82cb6cfdd7"
+  },
+  {
+    "path": "docs/METHODOLOGY.md",
+    "bytes": 2614,
+    "sha256": "009cddf7174a5c517954247463b56dfe7456d4668f9d856aaa20daf346bd71a8"
+  },
+  {
+    "path": "docs/PUBLIC_REVIEW.md",
+    "bytes": 1380,
+    "sha256": "38a681e217c1b68955577e66ad36f640de4d2bb055cf3db03eeafdd74aa25c54"
+  },
+  {
+    "path": "docs/PUBLIC_SCOPE.md",
+    "bytes": 1008,
+    "sha256": "84d72cf166f1b7633b0e550954f326b6c6b3490d55e6592e52f3ac4f0dbf2ecb"
+  },
+  {
+    "path": "reports/SNAPSHOT.md",
+    "bytes": 1196,
+    "sha256": "4fa89bdb1769efbd2f735b9e2f47c006475aff0f6973f03df4ccc681b3d0f829"
+  },
+  {
+    "path": "research/__init__.py",
+    "bytes": 79,
+    "sha256": "085f09fa624800157c09fa3df87802227595e05930e30e76134c0dbc1206a8ac"
+  },
+  {
+    "path": "research/fetch_kraken_prices.py",
+    "bytes": 4268,
+    "sha256": "4223ac9124bbf07d8fef72cd28aa92054616abb685f75ee41632b0c77d4508ab"
+  },
+  {
+    "path": "research/fetch_prices.py",
+    "bytes": 10822,
+    "sha256": "bde1d2ab24c06d879a05fd1e266a278e09ef1ad50b0ae7a6b85389bbbb592ced"
+  },
+  {
+    "path": "research/scenarios.py",
+    "bytes": 2040,
+    "sha256": "3ecbccd8001c0d8b15b66947fe768146cc23f59ff978325917743ad1d4151730"
+  },
+  {
+    "path": "research/tax.py",
+    "bytes": 537,
+    "sha256": "ac291bab48a3c1e63c891ac097b5a7b555b75f065a89c77894754df300851517"
+  },
+  {
+    "path": "scripts/check_public.py",
+    "bytes": 5546,
+    "sha256": "13082730436545b07c095adbca1ded6542a11ec86f2f1811f11af67bfb1967b9"
+  },
+  {
+    "path": "scripts/summarize.py",
+    "bytes": 833,
+    "sha256": "48ed6a5ef3c248a9acfb57e1e97e2729b325a0160713e1d44688140844d57e35"
+  },
+  {
+    "path": "tests/test_fetch_prices.py",
+    "bytes": 1508,
+    "sha256": "34f5d2822a11baa593fd0fc0e1ca68088e49aeb0918e3910b271235d2672eb49"
+  },
+  {
+    "path": "tests/test_methods.py",
+    "bytes": 2509,
+    "sha256": "5cadc84d16b4d5207e26d482b17178a097192a45c4a0c8ba220a6001914c30bb"
+  },
+  {
+    "path": "tests/test_public_policy.py",
+    "bytes": 1158,
+    "sha256": "ee9fed050aa080aabebb6da8d620a418fae0f10d0db6d1fe552bc878a77b7137"
+  },
+  {
+    "path": "tests/test_snapshot.py",
+    "bytes": 3332,
+    "sha256": "7b5775f616967405be5f81ef8f1fa36122149fb4f2da242449b0cc82e7e1348b"
+  }
+]

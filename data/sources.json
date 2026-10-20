@@ -1,0 +1,70 @@
+{
+  "momentum": [
+    {
+      "description": "原帖及规则",
+      "url": "https://x.com/gurgavin/status/2109399651870720030"
+    },
+    {
+      "description": "价格面板与历史成分数据的生成项目",
+      "url": "https://github.com/Johnbrick123/sp500-data"
+    },
+    {
+      "description": "下载的价格面板（滚动更新）",
+      "url": "https://github.com/Johnbrick123/sp500-data/releases/download/data/prices.parquet"
+    },
+    {
+      "description": "历史成分区间",
+      "url": "https://github.com/Johnbrick123/sp500-data/releases/download/data/membership_intervals.parquet"
+    },
+    {
+      "description": "Yahoo Finance SPX 历史行情",
+      "url": "https://finance.yahoo.com/quote/%5EGSPC/history/"
+    },
+    {
+      "description": "Yahoo Finance SPY 历史行情",
+      "url": "https://finance.yahoo.com/quote/SPY/history/"
+    },
+    {
+      "description": "Providian 2004 年报：2003 年价格区间及无股息",
+      "url": "https://www.sec.gov/Archives/edgar/data/1035713/000104746905008606/a2154671zex-13.htm"
+    },
+    {
+      "description": "Providian 2005 代理声明：年度总回报图表",
+      "url": "https://www.sec.gov/Archives/edgar/data/1035713/000104746905008613/a2154623zdef14a.htm"
+    },
+    {
+      "description": "Providian 2002 年末收盘价 6.49：同期报道",
+      "url": "https://www.sfgate.com/business/article/mauled-by-bears-the-third-straight-year-of-2718167.php"
+    },
+    {
+      "description": "Providian 2003 年末收盘价 11.64：同期报道",
+      "url": "https://www.sfgate.com/business/article/market-plumping-up-increased-sales-higher-2832948.php"
+    },
+    {
+      "description": "Reebok 2001 年报：全年最低价 18.50",
+      "url": "https://www.sec.gov/Archives/edgar/data/770949/000091205702011726/a2073450z10-k405.htm"
+    },
+    {
+      "description": "Avaya 2005 年报：2004 各季度价格区间",
+      "url": "https://www.sec.gov/Archives/edgar/data/1116521/000110465905060564/a05-21334_1ex13.htm"
+    },
+    {
+      "description": "Family Dollar 2010 年报：缺失日所在季度的最低价",
+      "url": "https://www.sec.gov/Archives/edgar/data/34408/000119312510236638/d10k.htm"
+    }
+  ],
+  "crypto": [
+    {
+      "description": "Public original-post links are provided per call; source text is omitted.",
+      "url": "https://x.com/"
+    },
+    {
+      "description": "Public daily OHLC documentation; venue and quote currency remain separate.",
+      "url": "https://developers.binance.com/docs/binance-spot-api-docs/rest-api/market-data-endpoints#klinecandlestick-data"
+    },
+    {
+      "description": "Independent USD-quoted daily market data; historical reach is limited.",
+      "url": "https://docs.kraken.com/api-reference/market-data/get-ohlc-data"
+    }
+  ]
+}
